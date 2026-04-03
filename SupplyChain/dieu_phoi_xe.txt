@@ -1,0 +1,21 @@
+Việc điều phối xe tại Hanoimilk (bao gồm xe tải vận chuyển thành phẩm và xe nâng trong nhà máy) được quản lý chặt chẽ bởi khối Supply Chain, chủ yếu là Phòng Kế hoạch cung ứng (P. KHCU) và bộ phận Kho,,.
+
+Dưới đây là chi tiết cách thức điều phối:
+
+### 1. Điều phối xe vận chuyển thành phẩm (Xe tải)
+Hoạt động này do bộ phận điều phối vận chuyển thuộc P. KHCU thực hiện sau khi đơn hàng được phê duyệt,:
+*   **Lập lịch giao hàng:** Sau khi Ban Giám đốc phê duyệt **Phiếu xác nhận hàng (BM-KH-29)**, bộ phận điều phối sẽ bố trí lịch đi hàng để trả hàng cho nhà phân phối hoặc đại lý.
+*   **Vận chuyển nội bộ:** Đối với việc chuyển hàng đến các cửa hàng giới thiệu sản phẩm hoặc giữa các kho, P. KHCU phối hợp với Phòng Kế toán để lập **"Lệnh điều động hàng"** và sử dụng **"Phiếu đề nghị chuyển kho" (BM-KH-30)**,.
+*   **Kiểm soát trọng tải:** Đơn hàng phải đảm bảo trọng tải xe tối thiểu 1,2 tấn và tối đa 6,0 tấn.
+*   **Giám sát tiến độ:** Phụ trách vận tải của P. KHCU có trách nhiệm theo dõi chất lượng và số lượng hàng trên từng xe, đảm bảo hàng đến nơi đúng tiến độ và báo lại cho Phòng Kinh doanh nếu có sự cố.
+
+### 2. Điều phối xe nâng (Trong nội bộ nhà máy)
+Xe nâng được điều phối để phục vụ các hoạt động di chuyển hàng hóa giữa khu vực sản xuất và kho:
+*   **Nhập kho thành phẩm:** Thủ kho thành phẩm căn cứ vào kế hoạch sản xuất để bố trí xe nâng vận chuyển sản phẩm từ khu vực bao gói vào các vị trí trong kho.
+*   **Vận hành ngoài giờ:** Khi nhập kho ngoài giờ hành chính, nhân viên xe nâng là thành phần bắt buộc tham gia cùng trưởng ca, phụ trách bao gói và bảo vệ để thực hiện việc nhập hàng.
+*   **Phục vụ kiểm tra chất lượng:** Khi cần chuyển hàng cho phòng QA xử lý hoặc kiểm tra, thủ kho sẽ chỉ định nhân viên lái xe nâng thực hiện và ký xác nhận vào phiếu xuất hàng.
+
+### 3. Quy trình kiểm soát tại cổng
+Mọi phương tiện vận chuyển khi ra/vào nhà máy đều phải qua sự điều phối và kiểm soát của bộ phận Bảo vệ:
+*   **Khi vào:** Lái xe phải xuất trình CCCD, trang phục đúng quy định và gửi lại điện thoại thông minh tại phòng bảo vệ.
+*   **Khi ra:** Bảo vệ chỉ mở cổng khi xe có đầy đủ chứng từ (Phiếu xuất kho, Phiếu xác nhận hàng) có đủ chữ ký của Sale Admin, Kế toán và Ban Giám đốc,. Bảo vệ sẽ đối chiếu thực tế hàng trên xe và đóng dấu xác nhận ngày ra cổng.

@@ -1,0 +1,28 @@
+### 1. Quy trình Lập đề nghị và Phê duyệt nhu cầu
+Việc mua sắm tại Hanoimilk luôn bắt đầu từ nhu cầu thực tế của bộ phận sử dụng thông qua **Phiếu đề nghị mua vật tư (BM-HC-27)**. Tùy vào loại hàng hóa mà các bộ phận chịu trách nhiệm sẽ khác nhau:
+
+*   **Hóa chất, vệ sinh công nghiệp, dụng cụ thí nghiệm:**
+    *   **Nhu cầu:** Do Phòng Đảm bảo chất lượng (QA) hoặc bộ phận Sản xuất lập.
+    *   **Kiểm tra:** Phòng Kế hoạch cung ứng (KHCU) kiểm tra tồn kho.
+    *   **Duyệt:** Ban Lãnh đạo (BLĐ) phê duyệt.
+*   **Vật tư kỹ thuật và thiết bị (máy móc, phụ tùng):**
+    *   **Nhu cầu:** Do Phòng Cơ điện (CĐ) hoặc bộ phận trực tiếp sử dụng tại nhà máy lập.
+    *   **Kiểm tra:** Phối hợp kiểm tra giữa các phòng KHCU, Tài chính kế toán (TCKT), Cơ điện và bộ phận sử dụng. Riêng với tài sản cố định hoặc hàng hóa giá trị lớn, Phòng TCKT phải kiểm tra trước khi trình BLĐ.
+    *   **Duyệt:** BLĐ phê duyệt. Với vật tư nhỏ lẻ hoặc bảo dưỡng định kỳ đã có giá duyệt sẵn, Giám đốc nhà máy có thể ký duyệt.
+*   **Vật tư Marketing (quà khuyến mại, POSM, banner):**
+    *   **Nhu cấp:** Do Phòng Marketing (MA) lập dựa trên chiến lược marketing.
+    *   **Kiểm tra:** Phòng Kinh doanh và Phòng TCKT kiểm tra.
+    *   **Duyệt:** BLĐ phê duyệt.
+
+### 2. Các bước triển khai mua hàng (sau khi được duyệt nhu cầu)
+Quy trình mua hàng được thực hiện theo các bước chuẩn hóa để đảm bảo chất lượng và giá cả:
+
+*   **Tìm kiếm và Lựa chọn Nhà cung cấp (NCC):** Nhân viên mua hàng tìm kiếm các NCC tiềm năng, thu thập báo giá và hồ sơ năng lực. Các bộ phận chức năng (QA, R&D, Cơ điện, Marketing) sẽ phối hợp đánh giá NCC dựa trên tiêu chuẩn **TC-KH-01** (chất lượng, giá, uy tín, thời gian giao hàng).
+*   **Lập Đơn đặt hàng:** Sau khi chọn được NCC, Phòng KHCU lập **Đơn đặt hàng (BM-KH-13)** trình BLĐ ký duyệt.
+*   **Theo dõi giao hàng:** Nhân viên phụ trách theo dõi tiến độ giao hàng và ghi nhận vào bảng theo dõi đặt hàng (**BM-KH-09**).
+*   **Nghiệm thu và Nhập kho:** Khi hàng về, Thủ kho báo các bộ phận liên quan (QA kiểm tra hóa chất/nguyên liệu; Phòng Cơ điện kiểm tra thiết bị; Phòng Marketing nghiệm thu mẫu mã vật tư marketing). Nếu đạt yêu cầu, thủ kho tiến hành nhập kho và chuyển chứng từ cho Phòng TCKT.
+
+### 3. Quản lý sau nhập kho
+Các loại vật tư này được phân loại và quản lý tại các kho riêng biệt với thủ kho phụ trách riêng để dễ dàng theo dõi chi phí:
+*   Vật tư thiết bị phục vụ sản xuất được hạch toán phân bổ vào **Tài khoản 627**.
+*   Vật tư Marketing được hạch toán vào chi phí bán hàng **Tài khoản 641**.
